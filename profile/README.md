@@ -1,7 +1,7 @@
-<p align="center"><a href="https://planlify.com" target="_blank"><img src="https://planlify.com/img/favicon/safari-pinned-tab.svg" width="400"></a></p>
+<p align="center"><a href="https://zaimea.com" target="_blank"><img src="https://zaimea.com/img/favicon/safari-pinned-tab.svg" width="400"></a></p>
 
-## About Planlify
+## About Zaimea.com
 
-Planlify is a web application calendar, which allows companies to track the working time of employees, with an easy way to configure:
+Zaimea is a web application calendar, which allows companies to track the working time of employees, with an easy way to configure:
 
-- [Documentation](https://planlify.com/docs).
+- [Documentation](https://zaimea.com/docs).
